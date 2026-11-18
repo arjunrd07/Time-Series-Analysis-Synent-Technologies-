@@ -156,8 +156,3 @@ pip install pandas numpy matplotlib
 
 ---
 
-## 👩‍💻 Author
-
-**Sanjana Monteiro**
-
-Data Science Intern
